@@ -1,4 +1,4 @@
-### Olá! 👋
+## Olá! 👋
 
 - 🔭 Estou a procura de um estágio
 - 🌱 Cursando Ciência da Computação
