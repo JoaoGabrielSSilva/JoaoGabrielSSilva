@@ -11,6 +11,13 @@
 </div>
 
 <div style="display: inline-block"><br>
+  <img align="center" alt="Joao-OS" height "200" width="150" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
+</div>
+  
+  ##
+  
+<div>
+  <a href="https://www.linkedin.com/in/joão-gabriel-souza-silva-5287a4233/" target="_blank"><img align="center" alt="Joao-OS" height "200" width="150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
