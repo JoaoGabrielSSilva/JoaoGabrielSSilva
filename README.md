@@ -1,7 +1,7 @@
 ## Olá! 👋
 
 - 🔭 Estou a procura de um estágio
-- 🌱 Cursando Ciência da Computação
+- 🌱 Cursando Ciência da Computação na UDF e estou no 3° semestre do curso
 - ⚡ Fato interessante: Sempre sonhei em criar jogos!
 
 <div align="center">
