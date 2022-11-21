@@ -19,7 +19,6 @@
   ##
   
 <div>
-  <a href="https://www.linkedin.com/in/joão-gabriel-souza-silva-5287a4233/" target="_blank"><img align="center" alt="Joao-OS" height "200" width="150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    
-     ![Snake animation](https://github.com/JoaoGabrielSSilva/JoaoGabrielSSilva/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.linkedin.com/in/joão-gabriel-souza-silva-5287a4233/" target="_blank"><img align="center" alt="Joao-OS" height "200" width="150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    ![Snake animation](https://github.com/JoaoGabrielSSilva/JoaoGabrielSSilva/blob/output/github-contribution-grid-snake.svg)
 </div>
