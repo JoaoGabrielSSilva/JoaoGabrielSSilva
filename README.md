@@ -1,7 +1,7 @@
 ## Olá! 👋
 
-- 🔭 Estou a procura de um estágio
-- 🌱 Cursando Ciência da Computação na UDF e estou no 4° semestre do curso
+- 🔭 Estagiário da Agência Nacional de Águas na área de Segurança da Informação
+- 🌱 Cursando Ciência da Computação na UDF e estou no 5° semestre do curso
 - ⚡ Fato interessante: Sempre sonhei em criar jogos!
 
 <div align="center">
