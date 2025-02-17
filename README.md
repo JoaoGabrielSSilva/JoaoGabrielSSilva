@@ -1,7 +1,6 @@
 ## Olá! 👋
 
-- 🔭 Estagiário da Agência Nacional de Águas na área de Segurança da Informação
-- 🌱 Cursando Ciência da Computação na UDF e estou no 7° semestre do curso
+- 🌱 Cursando Ciência da Computação na UDF no 8° semestre do curso
 - ⚡ Fato interessante: Sempre sonhei em criar jogos!
 
 <div align="center">
