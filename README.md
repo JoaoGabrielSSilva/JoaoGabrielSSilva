@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-- 🌱 Cursando Ciência da Computação na UDF no 8° semestre do curso
+- 🌱 Formado em Ciência da Computação
 - ⚡ Fato interessante: Sempre sonhei em criar jogos!
 
 <div align="center">
